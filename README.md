@@ -1,2 +1,4 @@
 # hello-world
-Ideas, Resources, etc.
+Hi everybody!
+
+I am Deniz. This is trying to get familiar with the GitHub platform.
